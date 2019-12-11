@@ -1,0 +1,2 @@
+# bashaFP
+functional programming 
